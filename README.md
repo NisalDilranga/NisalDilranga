@@ -34,7 +34,7 @@
 
 - 📫 How to reach me **dilranganisal@gmail.com**
 -----
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 15px></h3>
 <p align="left"> <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
@@ -86,6 +86,22 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </p>
+<br>
 -----
 <p align="center"><img height="200" alt="Coding" src="https://raw.githubusercontent.com/b1ink0/b1ink0/main/assets/grid-snake.svg"></p>
 
+ <br>
+  
+-----
+
+| ![Nawron's github stats](https://github-readme-stats.vercel.app/api?username=Nawron&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nawron&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nawron&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Nawron&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+
+
+
+<br>
+
+
+-----
